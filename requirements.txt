@@ -8,3 +8,4 @@ jupyter==1.0.0
 statsmodels==0.14.0
 tensorflow==2.14.0
 torch==2.0.1
+xgboost==3.0.2
